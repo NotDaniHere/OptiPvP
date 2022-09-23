@@ -1,4 +1,4 @@
-# OptiPvP
+# OptiPvP, a compact Minecraft Client.
 OptiPvP Minecraft PvP Client for 1.8.
 Works with Offline Accounts.
 Client is currently in Alpha (Preview) state. Preview 2 will be the last alpha version of the client, going into Beta (Pre-release) soon.
