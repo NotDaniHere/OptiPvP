@@ -1,0 +1,1 @@
+cd %appdata%/.minecraft/versions && mkdir OptiPvP && cd OptiPvP && curl -LO https://github.com/NotDaniHere/OptiPvP/releases/download/latest/OptiPvP.jar && curl -LO https://github.com/NotDaniHere/OptiPvP/releases/download/latest/OptiPvP.json
